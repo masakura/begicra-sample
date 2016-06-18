@@ -63,6 +63,15 @@ body {
   margin-top: 28px;
 }
 
+ul.nav li {
+  margin-left: 4em;
+}
+
+#monitor {
+  border: black solid 1px;
+  min-height: 500px;
+}
+
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 768px) {
   .container {
